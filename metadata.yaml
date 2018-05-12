@@ -1,0 +1,40 @@
+_repo: The-Spell-of-the-Heart-of-FranceThe-Towns-Villages-and-Chateaus-about-Paris_46321
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Fraprie, Frank Roy
+    alias: Fraprie, Frank R.
+    birthdate: 1874
+    gutenberg_agent_id: '40161'
+    url: http://www.gutenberg.org/2009/agents/40161
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hallays, André
+    alias: Hallays, Andre
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '43723'
+    url: http://www.gutenberg.org/2009/agents/43723
+description: ''
+gutenberg_issued: '2014-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46321'
+  lccn: '20021940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History'
+- !lcc 'DC'
+- !lcsh 'France -- Description and travel'
+tableOfContents: Maintenon -- La Ferté-Milon -- Meaux and Germigny -- Sainte Radegonde
+  -- Senlis -- Juilly -- The Château de Maisons -- The Valley of the Oise -- Gallardon
+  -- From Mantes to La Roche-Guyon -- Noyon -- Soissons -- Betz -- Chantilly -- The
+  Château of Wideville -- The Abbey of Livry.
+title: 'The Spell of the Heart of France: The Towns, Villages and Chateaus about Paris'
+url: http://www.gutenberg.org/ebooks/46321
